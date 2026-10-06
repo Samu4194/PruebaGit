@@ -8,9 +8,6 @@
  * @author Usuario
  */
 public class GitClase {
-    public void nombreUno(){
-        //Matheo  Morets
-    }
     
     public void nombreDos(){
         //Daniela Quispe
