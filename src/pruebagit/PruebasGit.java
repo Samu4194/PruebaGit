@@ -9,5 +9,8 @@ package pruebagit;
  * @author Usuario
  */
 public class PruebasGit {
-    
+
+    public void Carrera() {
+        //Samuel carrera
+    }
 }
