@@ -20,6 +20,7 @@ public class PruebaGit {
         //Samuel Carrera
         //Diego Curillo
         //Pablo Yupa
+        //Daniela Quispe
     }
     
 }
