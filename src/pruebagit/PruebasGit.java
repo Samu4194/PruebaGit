@@ -13,4 +13,8 @@ public class PruebasGit {
     public void Carrera() {
         //Samuel carrera
     }
+    
+    public void Moreta() {
+        //Alvaro Moreta
+    }
 }
