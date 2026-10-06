@@ -19,6 +19,7 @@ public class PruebaGit {
         //Integrantes:
         //Samuel Carrera
         //Diego Curillo
+        //Pablo Yupa
     }
     
 }
