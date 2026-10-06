@@ -18,6 +18,7 @@ public class PruebaGit {
         //Trabajando desde la rama develop
         //Integrantes:
         //Samuel Carrera
+        //Diego Curillo
     }
     
 }
