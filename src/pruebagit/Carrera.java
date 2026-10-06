@@ -11,5 +11,4 @@ package pruebagit;
  */
 public class Carrera {
     //Carrera
-    //Diego
 }
