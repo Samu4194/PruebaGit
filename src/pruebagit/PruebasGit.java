@@ -8,9 +8,6 @@ package pruebagit;
  *
  * @author Usuario
  */
-public class CarreraGit {
-    //Primer Comentario
-    //Hola mundo
-    //Clase creada
-    //Pablo Yupa
+public class PruebasGit {
+    
 }
