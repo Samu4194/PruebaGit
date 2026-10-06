@@ -15,4 +15,8 @@ public class GitClase {
     public void nombreTres(){
         //Samuel Carrera
     }
+    
+    public void nombreCuatro(){
+        //Diego Curillo
+    }
 }
