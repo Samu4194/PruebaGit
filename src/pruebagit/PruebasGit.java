@@ -21,4 +21,8 @@ public class PruebasGit {
      public void Quispe() {
         //Daniela Quispe
     }
+     
+    public void Curillo() {
+        //Curillo Diego
+    }
 }
