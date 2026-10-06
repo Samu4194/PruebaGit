@@ -12,4 +12,7 @@ public class GitClase {
         //Matheo  Morets
     }
     
+    public void nombreDos(){
+        //Daniela Quispe
+    }
 }
